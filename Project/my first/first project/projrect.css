@@ -1,0 +1,43 @@
+.Contant{
+    color: rgb(82, 70, 70);
+    text-align: center;
+
+}
+.Banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url(—Pngtree—blue\ gold\ background\ banner\ idea_1920381.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.Contant h1{
+    font-size: 40px;
+    color: #3094d2;
+    margin-top: 30px;
+}
+.blog{
+    margin: 50px 0px;
+    font-size: 30px;
+}
+.button{
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding: 15px 4;
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+
+}
+.button:hover{
+    background-color: rgb(196, 33, 33);
+}
+.Contant nav ul button{
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding: 15px 4;
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+
+}
